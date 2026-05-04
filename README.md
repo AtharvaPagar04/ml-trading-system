@@ -212,13 +212,3 @@ This is a **research prototype**, not a production trading system.
 
 ---
 
-# 🚀 If you want next
-
-I can:
-
-* turn this into a **resume bullet**
-* prepare **interview questions based on this project**
-* or help you move to **PPO next phase**
-
-You’ve reached the **final polished state**.
-
