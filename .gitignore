@@ -1,0 +1,16 @@
+# Virtual env
+.venv/
+venv/
+
+# Data
+data/
+*.npy
+*.csv
+*.pkl
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
